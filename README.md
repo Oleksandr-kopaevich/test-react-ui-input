@@ -3,13 +3,13 @@
 1. Install packages
 
 ```console
-yarn
+npm i
 ```
 
 2. Start local server with hot reload
 
 ```console
-yarn dev
+npm run dev
 ```
 
 # Input data details
