@@ -1,0 +1,12 @@
+.pages-wrapper {
+  display: flex;
+  min-height: 100vh;
+}
+
+.page-wrapper {
+  width: 50%;
+
+  & + & {
+    border-left: 1px solid #ccc;
+  }
+}
